@@ -1,0 +1,17 @@
+{
+  "name": "Scrim-s0435uu",
+  "description": "https://scrimba.com/learn-imba-c01h/~00/s0m7s0ssvi/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "nanoid": "3.3.1",
+    "howler": "2.2.3",
+    "vite": "latest",
+    "imba": "latest"
+  },
+  "devDependencies": {}
+}
