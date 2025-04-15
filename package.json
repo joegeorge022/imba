@@ -1,5 +1,6 @@
 {
   "name": "Scrim-s0435uu",
+  "type": "module",
   "description": "https://scrimba.com/learn-imba-c01h/~00/s0m7s0ssvi/head",
   "scripts": {
     "start": "vite",
